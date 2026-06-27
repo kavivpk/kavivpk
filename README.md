@@ -1,26 +1,8 @@
-## Hi there 👋
-
-<!--
-**kavivpk/kavivpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align="center">
 
 # 👋 Hi, I'm Kaviyarasu V
 
-### 🌐 Web Developer &nbsp;|&nbsp; 📊 Data Analytics &nbsp;|&nbsp; 🤖 AI Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🌐+Web+Developer;📊+Data+Analyst;🤖+AI+Developer;)](https://git.io/typing-svg)
 
 **B.Tech Information Technology Student @ V.S.B Engineering College, Tamil Nadu (Batch 2023–2027)**
 
