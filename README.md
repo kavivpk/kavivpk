@@ -125,7 +125,7 @@ Currently targeting roles at **Data Analytics , AI Developer, Web Developer** on
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavivpk&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kavivpk&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavivpk&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
