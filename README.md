@@ -75,7 +75,7 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🤖 **[SmartHire AI](https://github.com/kavivpk/smarthire-ai)** | Full-stack AI placement platform — ATS resume scoring, NLP skill-gap detection, fake skill detection & real-time admin analytics | React, Node.js, FastAPI, Python, Scikit-learn, spaCy, MongoDB, Socket.io, Docker, AWS | ✅ Built |
+| 🤖 **[SmartHire AI](https://github.com/kavivpk/smarthire-ai)** | Full-stack AI placement platform — ATS resume scoring, NLP skill-gap detection, fake skill detection & real-time admin analytics | React,FastAPI, Python, Scikit-learn, spaCy, SQl, Socket.io, Docker, AWS | ✅ Built |
 | 📊 **[Learning Behaviour Analytics](https://github.com/kavivpk/learning_behaviour_analytics)** | Full-stack app tracking 500+ student records — quiz scores, engagement & difficulty patterns with interactive React dashboard | React, Flask, Python, MySQL, Pandas, Chart.js | ✅ Built |
 | 💬 **[AI PDF Chatbot](https://github.com/kavivpk/pdf-chatbot)** | Upload any PDF and get context-aware answers in under 2 seconds via a RAG pipeline with real-time streaming | React, FastAPI, RAG Pipeline | ✅ Built |
 | 📈 **[Financial & HR Dashboard](https://github.com/kavivpk/CodeAlpha_Financial_and_HR_Dashboard)** | Power BI dashboard with 12 KPI cards, DAX measures & slicers analyzing Financial & HR metrics — reduced report time by 60% | Power BI, DAX, Power BI Service | ✅ CodeAlpha Intern |
@@ -106,6 +106,7 @@
 
 Currently targeting roles at **Data Analytics , AI Developer, Web Developer** on enterprise IT companies.
 
+
 ---
 
 ## 📜 Certifications
@@ -121,11 +122,18 @@ Currently targeting roles at **Data Analytics , AI Developer, Web Developer** on
 
 <div align="center">
 
-![Kaviyarasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavivpk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kavivpk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavivpk&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavivpk&layout=compact&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavivpk&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavivpk&theme=tokyo-night&hide_border=true&area=true&include_all_commits=true)
 
 </div>
 
