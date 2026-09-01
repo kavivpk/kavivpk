@@ -75,7 +75,7 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🤖 **[SmartHire AI](https://github.com/kavivpk/smarthire-ai)** | Full-stack AI placement platform — ATS resume scoring, NLP skill-gap detection, fake skill detection & real-time admin analytics | React, Node.js, FastAPI, Python, Scikit-learn, spaCy, MySQL, Socket.io, Docker | ✅ Built |
+| 🤖 **[SmartHire AI](https://github.com/kavivpk/smarthire-ai)** | Full-stack AI placement platform — ATS resume scoring, NLP skill-gap detection, fake skill detection & real-time admin analytics | React, FastAPI, Python, Scikit-learn, spaCy, MySQL, Socket.io, Docker | ✅ Built |
 | 📊 **[Learning Behaviour Analytics](https://github.com/kavivpk/learning_behaviour_analytics)** | Full-stack app tracking 500+ student records — quiz scores, engagement & difficulty patterns with interactive React dashboard | React, Flask, Python, MySQL, Pandas, Chart.js | ✅ Built |
 | 💬 **[AI PDF Chatbot](https://github.com/kavivpk/pdf-chatbot)** | Upload any PDF and get context-aware answers in under 2 seconds via a RAG pipeline with real-time streaming | React, FastAPI, RAG Pipeline | ✅ Built |
 | 📈 **[Financial & HR Dashboard](https://github.com/kavivpk/CodeAlpha_Financial_and_HR_Dashboard)** | Power BI dashboard with 12 KPI cards, DAX measures & slicers analyzing Financial & HR metrics — reduced report time by 60% | Power BI, DAX, Power BI Service | ✅ CodeAlpha Intern |
