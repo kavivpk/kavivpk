@@ -138,7 +138,7 @@ Currently targeting roles at **Data Analytics , AI Developer, Web Developer** on
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaviyarasuv/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kavivpk/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-kaviyarasu4980-5142s-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaviyarasu4980@gmail.com)
 
 </div>
